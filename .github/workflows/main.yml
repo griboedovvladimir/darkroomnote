@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.ducktimer.com
         username: root@darkroomnote.com
-        password: !SftpRoo
+        password: ftprootpass
