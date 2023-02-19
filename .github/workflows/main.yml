@@ -12,5 +12,5 @@ jobs:
       uses: SamKirkland/FTP-Deploy-Action@4.3.3
       with:
         server: ftp.ducktimer.com
-        username: ducktime
-        password: vai0yeeH
+        username: root@darkroomnote.com
+        password: ]h$}][SVsmMI
