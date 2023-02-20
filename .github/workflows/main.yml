@@ -21,6 +21,6 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
-        ftp-server: ftp.ducktimer.com
-        ftp-username: root@darkroomnote.com
-        ftp-password: ftprootpass
+        server: ftp.ducktimer.com
+        username: root@darkroomnote.com
+        password: ftprootpass
