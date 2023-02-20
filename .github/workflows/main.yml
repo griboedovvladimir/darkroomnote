@@ -19,7 +19,7 @@ jobs:
         npm run build
     
     - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@3.0.0
+      uses: SamKirkland/FTP-Deploy-Action@4.0.0
       with:
         ftp-server: ftp.ducktimer.com
         ftp-username: root@darkroomnote.com
