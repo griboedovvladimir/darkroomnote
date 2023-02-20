@@ -24,5 +24,7 @@ jobs:
         FTP_SERVER: ftp.ducktimer.com
         FTP_USERNAME: root@darkroomnote.com
         FTP_PASSWORD: ftprootpass
+        LOCAL_DIR: app/src/app/
+        REMOTE_DIR: /home/ducktime/puplic_ftp
         METHOD: ftp
         PORT: 21
