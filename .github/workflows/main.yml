@@ -20,7 +20,7 @@ jobs:
     
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@2.0.0
-      with:
+      env:
         FTP_SERVER: ftp.ducktimer.com
         FTP_USERNAME: root@darkroomnote.com
         FTP_PASSWORD: ftprootpass
